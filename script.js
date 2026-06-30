@@ -7,9 +7,9 @@
 
 /* ─── CONFIGURATION ──────────────────────────────────────────── */
 const CONFIG = {
-  PIN: '300605',
-  NAME: 'Mela Cantik',
-  DATE: 'June 30',
+  PIN: '770006',
+  NAME: 'Bebey',
+  DATE: 'July 7',
 
   TYPEWRITER_TEXTS: [
     'The most beautiful day of the entire year…',
