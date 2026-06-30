@@ -28,13 +28,6 @@ const CONFIG = {
     { emoji: '💐', msg: 'This bouquet is for you — because you deserve all the beauty and love in this world.', x: 60, y: 55, delay: 1.8 },
   ],
 
-  POLAROIDS: [
-    { rotate: -6, url: './foto1.jpg' },
-    { rotate: 4, url: './foto2.jpg' },
-    { rotate: -3, url: './foto3.jpg' },
-    { rotate: 4, url: './foto4.jpg' },
-    { rotate: -6, url: './foto5.jpg' }    
-  ],
 
   TIMELINE: [
     { date: 'The Very Beginning', title: 'First Time We Met', desc: 'The day the world seemed to spin a little faster and everything felt different from before.', emoji: '✨' },
